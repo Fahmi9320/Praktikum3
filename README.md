@@ -16,8 +16,9 @@ Program ini adalah sistem manajemen pegawai sederhana yang ditulis dalam bahasa 
 
 ## Kodingan
 
+
 ### Pegawai.java
-```java
+```
 // Kelas Pegawai
 public class Pegawai {
     private String nama;
@@ -124,21 +125,6 @@ class Programmer extends Pegawai {
 
 
 
-// Kelas utama untuk menjalankan program
-public class Main {
-    public static void main(String[] args) {
-        // Membuat objek Manager
-        Manager manajer = new Manager("Budi", 5000000, 1000000);
-        manajer.cetakInfo();  // Cetak informasi manajer
-        manajer.cetakTunjangan(); // Cetak tunjangan
+![Cuplikan layar 2024-10-23 144022](https://github.com/user-attachments/assets/a0513bf0-a5a1-404d-9834-e540fa2cab6c)
 
-        System.out.println(); // Baris kosong untuk pemisah output
-
-        // Membuat objek Programmer
-        Programmer programmer = new Programmer("Ani", 4000000, 500000);
-        programmer.cetakInfo(); // Cetak informasi programmer
-        programmer.cetakBonus(); // Cetak bonus
-    }
-}
- 
 
