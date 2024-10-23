@@ -16,7 +16,8 @@ Program ini adalah sistem manajemen pegawai sederhana yang ditulis dalam bahasa 
 
 ## Kodingan
 
-![Cuplikan layar 2024-10-23 144022](https://github.com/user-attachments/assets/22ed5003-26cc-4804-a201-5a846ed837c0)
+![Cuplikan layar 2024-10-23 144433](https://github.com/user-attachments/assets/57814615-f835-4345-9d46-48b1c575d001)
+
 
 ### Pegawai.java
 ```
