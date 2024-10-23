@@ -1,7 +1,7 @@
 Nama: Fahmi Arifin     
 NIM : 312310662
 
-# Praktikum 3 - Employee Management System
+# Praktikum 3 
 
 ## Deskripsi Program
 
